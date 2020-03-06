@@ -1,0 +1,5 @@
+- npm i g netlify-cli
+- netlfiy init
+- set env variables within netflify dashboard
+- npm run build
+- netlify deploy --prod
